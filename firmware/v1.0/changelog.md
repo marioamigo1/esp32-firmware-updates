@@ -1,4 +1,3 @@
-firmware/v1.0/changelog.md
 # Version 1.0
 
 ## Changes
